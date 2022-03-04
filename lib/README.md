@@ -5,7 +5,7 @@ Widget Javascript XHR is a library used to make a GET/POST request.
 ## Structure
 
 library:
-- [window.WXmlHttpRequest](https://github.com/energia-source/widget-xkr/tree/main/lib#class-wxmlhttprequest-usable-methods)
+- [window.WXmlHttpRequest](https://github.com/energia-source/widget-xhr/tree/main/lib#class-windowwxmlhttprequest-usable-methods)
 
 <br>
 

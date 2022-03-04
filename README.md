@@ -50,7 +50,7 @@ delete requests;
 ## Structure
 
 library:
-- [window.WXmlHttpRequest](https://github.com/energia-source/widget-xkr/tree/main/lib)
+- [window.WXmlHttpRequest](https://github.com/energia-source/widget-xhr/tree/main/lib)
 
 <br>
 

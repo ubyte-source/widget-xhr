@@ -28,7 +28,7 @@ for (let x in choosed) {
         let parser = document.createElement('a');
         parser.href = this.getXHR().responseURL;
 
-        let split = parser.pathname.split('/'),
+        let split = parser.pathname.split(String.fromCharCode(47)),
         key = split[split.length - 1] === 'delete'
             ? null
             : split[split.length - 1];

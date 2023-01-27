@@ -32,6 +32,20 @@ It returns the hardcode value.
 
  * **Returns:** The hardcode property of the XHR object.
 
+##### `setType(type)`
+
+This function sets the type of the request to the type passed in as a parameter
+
+ * **Parameters:**
+   * `type` — The type of request to make (e.g. "POST", "GET", "PUT")
+ * **Returns:** The object itself.
+
+##### `getType()`
+
+It returns the type of the request.
+
+ * **Returns:** The type of the request.
+
 ##### `deleteHardcode(key)`
 
 Delete a hardcoded value from the hardcoded object

@@ -16,6 +16,12 @@
       "email": "support@ubyte.it",
       "homepage": "https://www.ubyte.it/",
       "role": "Developer"
+    },
+    {
+      "name": "Gabriele Luigi Masero",
+      "email": "support@ubyte.it",
+      "homepage": "https://www.ubyte.it/",
+      "role": "Developer"
     }
   ],
   "autoload": {
